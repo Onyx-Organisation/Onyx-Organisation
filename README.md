@@ -1,7 +1,7 @@
 -----
 <p align = "center">
 <img src="https://cdn.discordapp.com/attachments/811996894640472125/900402493861814272/149861274b1549d6176c0e1d4d7d763e.png" width="250" height="250">
-<h2>In this github page you can found all of the tools of the ONYX ORGANISATION</h2>
+<h2 align = "center">In this github page you can found all of the tools of the ONYX ORGANISATION</h2>
 </p>
 
 -----
