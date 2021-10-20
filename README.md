@@ -13,5 +13,5 @@
 <img src="https://discord.c99.nl/widget/theme-3/456142146299494402.png">
 <img src="https://discord.c99.nl/widget/theme-3/489140964125048872.png">
 <br>
-    <strong align = "center">httml://github.com/AtiPique-Dev        https://github.com/Esio-01</strong>
+    <strong align = "center">https://github.com/AtiPique-Dev        https://github.com/Esio-01</strong>
 </p>
