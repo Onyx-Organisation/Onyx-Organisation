@@ -6,13 +6,10 @@
 
 -----
 <p align = "center"><strong>DISCORD</strong><br>
-  <style type="text/css">
-#link {
-  color: #3492d1;
-}
-  <strong id = "link">https://discord.gg/xkSxz8683v</strong>
+<strong id = "link">https://discord.gg/xkSxz8683v</strong>
     
 -----
-    <p align = "center"><strong>Dev of the organisation</strong>
-    <img src="https://discord.c99.nl/widget/theme-3/456142146299494402.png", "https://discord.c99.nl/widget/theme-3/489140964125048872.png">
-    </p>
+<p align = "center"><strong>Dev of the organisation</strong>
+<img src="https://discord.c99.nl/widget/theme-3/456142146299494402.png">
+<img src="https://discord.c99.nl/widget/theme-3/489140964125048872.png">
+</p>
