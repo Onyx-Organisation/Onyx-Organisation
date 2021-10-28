@@ -9,7 +9,7 @@
 <strong>https://discord.gg/xkSxz8683v</strong>
     
 -----
-<p align = "center"><strong>Dev of the organisation</strong><br>
+<p align = "center"><strong>Devs of the organisation</strong><br>
 <img src="https://discord.c99.nl/widget/theme-3/456142146299494402.png">
 <img src="https://discord.c99.nl/widget/theme-3/489140964125048872.png">
 <br>
